@@ -1,4 +1,3 @@
-Conhecimento sobre HTML, tags
 <html>
     <head>
         <title>Desafio HTML</title>
