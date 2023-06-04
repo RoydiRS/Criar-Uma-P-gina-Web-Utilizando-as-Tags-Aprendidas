@@ -22,7 +22,7 @@
             <li>Tim Berners-Lee (físico britânico) criou o HTML original (e outros protocolos associados como o HTTP), numa estação NeXTcube, usando o ambiente de desenvolvimento NeXTSTEP. Na época, a linguagem não era uma especificação, mas uma coleção de ferramentas para resolver um problema de Tim: a comunicação e disseminação das pesquisas entre ele e o seu grupo de colegas. A sua solução, combinada com a então emergente internet pública (que tornar-se-ia a Internet), ganhou atenção mundial.</li>
         </ul>
         <h2 id="Estrutura basica html"><i>Estrutura basica html</i></h2>
-        <small>(Voltar ao topo)</small>
+        
         <h5>Três marcadores basicos define o Html:</h5>
         <ul>
             <li>O primeiro é o <mark>html</mark>, define tudo oque estiver dentro dele será uma pagina html;</li>
